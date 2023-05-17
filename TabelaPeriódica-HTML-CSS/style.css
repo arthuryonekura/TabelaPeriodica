@@ -1,0 +1,88 @@
+        *{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+        }
+        
+        h1 {
+            text-align: left;
+        }
+
+        .yellow {
+            background-color: yellow;
+        }
+        .yellow:hover {
+            background-color: white;
+        }
+        
+        .quadrado {
+            width: 20px;
+            height: 20px;
+            display: inline-block;
+        } 
+        
+        li {
+            text-align: left;
+        }
+
+        .green {
+            background-color: green;
+        }
+        .green:hover {
+            background-color: white;
+        }
+        
+        .blue {
+            background-color: blue;
+        }
+        .blue:hover {
+            background-color: white;
+        }
+
+        .red {
+            background-color: red;
+        }
+        .red:hover {
+            background-color: white;
+        }
+
+        .orange {
+            background-color: orange;
+        }
+        .orange:hover {
+            background-color: white;
+        }
+
+        .purple {
+            background-color: purple;
+        }
+        .purple:hover {
+            background-color: white;
+        }
+
+        .aqua {
+            background-color: aqua;
+        }
+        .aqua:hover {
+            background-color: white;
+        }
+
+        .grey {
+            background-color: grey;
+        }
+        .grey:hover {
+            background-color: white;
+        }
+
+        .pink {
+            background-color: pink;
+        }
+        .pink:hover {
+            background-color: white;
+        }
+
+        .brown {
+            background-color: brown;
+        }
+        .brown:hover {
+            background-color: white;
+        }
